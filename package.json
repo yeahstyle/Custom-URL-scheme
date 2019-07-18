@@ -22,7 +22,7 @@
     "Launch App",
     "ecosystem:cordova",
     "cordova-ios",
-    "cordova-android",    
+    "cordova-android"    
   ],
   "engines": [
     {
