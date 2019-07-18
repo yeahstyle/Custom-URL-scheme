@@ -6,9 +6,7 @@
     "id": "cordova-plugin-customurlscheme",
     "platforms": [
       "ios",
-      "android",
-      "windows8",
-      "windows"
+      "android"
     ]
   },
   "repository": {
