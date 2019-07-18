@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EddyVerbruggen/Custom-URL-scheme.git"
+    "url": "git+https://github.com/yeahstyle/Custom-URL-scheme.git"
   },
   "keywords": [
     "Custom URL Scheme",
@@ -22,9 +22,7 @@
     "Launch App",
     "ecosystem:cordova",
     "cordova-ios",
-    "cordova-android",
-    "cordova-windows",
-    "cordova-windows8"
+    "cordova-android",    
   ],
   "engines": [
     {
